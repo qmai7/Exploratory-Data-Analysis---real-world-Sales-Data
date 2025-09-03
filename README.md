@@ -2,11 +2,13 @@
 
 ## Background information:
 
+
 We will use Python Pandas & Python Matplotlib to analyze and answer business questions based on 12 months' worth of sales data. 
 
 We start by cleaning our data. 
 
 Once we have cleaned up our data, we will tackle the following 5 high-level business questions: 
+
 
 • What was the best month for sales? How much was earned that month?<br>
 • What city sold the most product?<br>
@@ -23,3 +25,6 @@ To answer the above questions, we walk through many different pandas & matplotli
 • Using groupby to perform aggregate analysis<br>
 • Plotting bar charts and line graphs to visualize our results<br>
 • Labeling our graphs.
+
+
+
